@@ -1,4 +1,5 @@
-Java LeetCode – Prática de Algoritmos
+Java LeetCode E HACKERANK
+– Prática de Algoritmos
 
 Este repositório contém minhas soluções para problemas do LeetCode utilizando a linguagem Java.
 
